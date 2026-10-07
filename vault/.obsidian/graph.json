@@ -1,0 +1,6 @@
+{
+  "colorGroups": [
+    { "query": "path:\"Claude Memory\"", "color": { "a": 1, "rgb": 8421631 } },
+    { "query": "path:\"10 Projects\"", "color": { "a": 1, "rgb": 5025616 } }
+  ]
+}
